@@ -66,6 +66,7 @@ body {
 .header {
    font-size: 1.125rem;
    font-weight: 300;
+   color: rgba(186, 43, 194, 0.9);
 }
 
 /* Thumbnail */

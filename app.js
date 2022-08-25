@@ -125,13 +125,13 @@ const app = {
          path: './music/Song12.mp3',
          image: './image/image11.jpg'
       },
-      /*{
-         title: 'Sugar',
-         author: 'Maroon 5',
-         path: './music/song12.mp3',
+      {
+         title: '23:40',
+         author: 'HÀO',
+         path: './music/Song13.mp3',
          image: './image/image12.jpg'
       },
-      {
+      /*{
          title: 'Wellerman',
          author: 'Nathen Evans',
          path: './music/song13.mp3',

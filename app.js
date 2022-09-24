@@ -137,18 +137,20 @@ const app = {
          path: './music/Song14.mp3',
          image: './image/image13.jpg'
       },
-      /*{
-         title: 'Masked Heroes',
-         author: 'Vexento',
-         path: './music/song14.mp3',
+      {
+         title: 'EM LÀ',
+         author: 'MONO',
+         path: './music/Song15.mp3',
          image: './image/image14.jpg'
       },
+      
       {
-         title: 'Nevada',
-         author: 'Vicetone',
-         path: './music/song15.mp3',
+         title: 'WAITING FOR YOU',
+         author: 'MONO',
+         path: './music/Song16.mp3',
          image: './image/image15.jpg'
       },
+      /*
       {
          title: 'Warriors',
          author: 'Imagine Dragons',
